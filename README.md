@@ -10,8 +10,6 @@
 
 ### 🔧 Skills
 - **Languages:** Java, Python, PHP, HTML, CSS, JavaScript
-- **Frameworks:** [List any frameworks you're familiar with]
-- **Tools:** Android Studio, [List any other tools or platforms you use]
 - **Interests:** Web Development, AI, Blockchain
 
 ---
