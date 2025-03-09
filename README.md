@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Om Pawar!
 
 ### 🚀 About Me
-- 🎓 6th Semester Computer Science Student
+- 🎓 Computer Science Student
 - 💻 Skilled in Java, Python, PHP, HTML, CSS, JavaScript
 - 🌱 Currently learning Blockchain Technology
 - 🏆 Working on various microprojects
